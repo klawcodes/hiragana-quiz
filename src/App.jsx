@@ -98,7 +98,7 @@ function App() {
   return (
     <div className="min-h-screen bg-slate-800 text-white text-center mx-auto">
       <header className="p-6 mb-8">
-        <h1 className="text-2x1 font-bold uppercase">Hirigana Quiz</h1>
+        <h1 className="text-2x1 font-bold uppercase">Hiragana Quiz</h1>
         <div>
           <p>
             {streak} / {maxStreak}
