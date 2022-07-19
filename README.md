@@ -1,4 +1,4 @@
-<h1>HIRIGANA QUIZ</h1>
+<h1>HIRAGANA QUIZ</h1>
 <hr><h2>Technologies Used</h2>
 <hr><ul>
 <li>HTML</li>
